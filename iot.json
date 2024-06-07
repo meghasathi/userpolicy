@@ -2,10 +2,10 @@
     {
       "Name": "Cloudslab Test : IOT",
       "Language": "English",
-      "BaseURL": "https://github.com/CloudLabs-MOC/AZ-900T0x-MicrosoftAzureFundamentals",
+      "BaseURL": "https://github.com/microsoft/MCW-Building-a-resilient-IaaS-architecture",
       "Files": [
         {
-          "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/AZ-900T0x-MicrosoftAzureFundamentals/prod/Instructions/Labs/07-Implement%20the%20Azure%20IoT%20Hub.md",
+          "RawFilePath": "https://raw.githubusercontent.com/microsoft/MCW-Building-a-resilient-IaaS-architecture/master/Hands-on%20lab/HOL%20step-by%20step%20-%20Building%20a%20resilient%20IaaS%20architecture.md",
           "Order": 1
         }
       ]
